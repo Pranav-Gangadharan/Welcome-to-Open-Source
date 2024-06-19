@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/Pranav-Gangadharan">
+                    <img src="https://avatars.githubusercontent.com/u/106268516?v=4" width="100px;" alt="Pranav Gangadharan"/>
+                    <br />
+                    <sub><b>Pranav Gangadharan</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
